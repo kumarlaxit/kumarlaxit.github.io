@@ -1,47 +1,23 @@
-body{
- 		background-attachment: fixed;
-		-webkit-background-size:cover;
-		-o-background-size:cover;
-		background-size:cover;}
+/*CSS written by Laxit kumar Chauhan with help of Abhay*/
+/* © laxBeat ver 5.1.0 | Dec 2020 | by ABHAY KUMAR VERMA */
+/* Extract from https://github.com/kumarlaxit by laxbeat*/
 
-
-.nav {		float:right;
-  			list-style-type:none;
-  			text-align:right;
-  			margin:5px 5px;
-  			padding:80;
-  			width:450px;}
-
-li {     
- 			display:inline-table;
-  			font-size: 20px;
-  			padding: 10px;}
-
-
-
-.cont{	background:url(/wp-content/assets/img/midup.jpg);background-repeat: no-repeat;background-size:100%;
-		text-align:center;
-		color:#00bfff;
-		margin:auto;
-		padding:80px; 
-		display:block;}
-
-.butt{	background:#04E5E5;
-		color:white;
-		border-style:solid;border-radius:50px;width:110px}
+/*Global properties starts here*/
+*{box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;}
+html{font-size:100%;}.clearfix:after{clear:both;content: ".";visibility:hidden;display:block;height:0;}
+a{text-emphasis:none;text-decoration:none;list-style-type:none;}
+body{background-attachment:fixed;-webkit-background-size:cover;-o-background-size:cover;
+background-size:cover;}nav ul{list-style-type:none;text-align:right;margin:5px 5px;}nav{float:right;overflow:auto;}nav a{color: black;}
+li{display:inline-table;font-size:20px;padding:10px;}
+.cont{background:url(/wp-content/assets/img/midup.jpg);background-repeat: no-repeat;background-size:100%;
+text-align:center;color:#00bfff;margin:auto;padding:80px;display:block;}
+.butt{background:#04E5E5;color:white;border-style:solid;border-radius:50px;width:110px;}
 .butt:hover{background-color:white;color:black;cursor:pointer;}
-
-.footer{	background:black;
-			color:white;
-			margin:auto;
-			padding: 10px }
-.last{	background:#00bfff;
-		padding:5%;
-		margin:auto;
-		text-align: center;font-size:25px}
+.footer{background:black;color:white;margin:auto;padding: 10px;}
+.last{background:#00bfff;margin:auto;text-align: center;font-size:25px;padding:2rem;}
 h1{font-family: 'Liu Jian Mao Cao', cursive;font-size:60px;}
-h2{font-family: 'Liu Jian Mao Cao', cursive;
-font-family: 'Lobster', cursive;}
-
-.icon{color: black}
+h2{font-family: 'Liu Jian Mao Cao', cursive;font-family: 'Lobster', cursive;}
+.icon{color: black;}
 .icon:hover{color:white;cursor:pointer;}
+.container{margin:0;max-width:none;padding:1rem}
+.madewith{font-size:medium;text-align:left;padding:0;margin:0;}
