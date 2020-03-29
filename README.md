@@ -1,3 +1,3 @@
-# kumarlaxit.github.io
+# omick.me
 
 A GitHub hosted website.
