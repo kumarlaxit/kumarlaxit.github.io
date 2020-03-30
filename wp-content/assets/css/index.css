@@ -14,7 +14,7 @@ text-align:center;color:#00bfff;margin:auto;padding:80px;display:block;}
 .butt{background:#04E5E5;color:white;border-style:solid;border-radius:50px;width:110px;}
 .butt:hover{background-color:white;color:black;cursor:pointer;}
 .footer{background:black;color:white;margin:auto;padding: 10px;}
-.last{background:#00bfff;margin:auto;text-align: center;font-size:25px;padding:8px;}
+.last{background:#00bfff;margin:auto;text-align: center;font-size:25px;padding:8rem;}
 h1{font-family: 'Liu Jian Mao Cao', cursive;font-size:60px;}
 h2{font-family: 'Liu Jian Mao Cao', cursive;font-family: 'Lobster', cursive;}
 .icon{color: black;}
