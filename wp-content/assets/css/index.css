@@ -9,7 +9,7 @@ a{text-emphasis:none;text-decoration:none;list-style-type:none;}
 body{background-attachment:fixed;-webkit-background-size:cover;-o-background-size:cover;
 background-size:cover;}nav ul{list-style-type:none;text-align:right;margin:5px 5px;}nav{float:right;overflow:auto;}nav a{color: black;}
 li{display:inline-table;font-size:20px;padding:10px;}
-.cont{background:url(/wp-content/assets/img/midup.jpg);background-repeat: no-repeat;background-size:100%;
+.cont{background:url(/wp-content/assets/img/midup.jpg);background-repeat: no-repeat;background-size:cover;
 text-align:center;color:#00bfff;margin:auto;padding:80px;display:block;}
 .butt{background:#04E5E5;color:white;border-style:solid;border-radius:50px;width:110px;}
 .butt:hover{background-color:white;color:black;cursor:pointer;}
