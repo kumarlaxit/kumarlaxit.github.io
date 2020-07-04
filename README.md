@@ -1,5 +1,6 @@
 # omick.me
 
+UPDATED
 A GitHub hosted website.
 Initial commit added.
 1. Dns changed to GitHub
