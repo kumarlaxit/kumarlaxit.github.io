@@ -74,7 +74,7 @@ else if (guess > secretNumber) {
 }
    else
    {
-  document.querySelector('.message').textContent = 'You Lost The Game!';
+  document.querySelector('.message').textContent = 'You Lost The Game!😌';
   document.querySelector('.score').textContent = 0;
 }
 }
